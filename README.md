@@ -10,7 +10,7 @@ How to host website via GitHub
 6. Go to Pages
 7. In the Branch, select main instead of None
 8. Save
-9. Wait until there's a "Your site is live at https://blahblahblah
+9. Wait until there's a "Your site is live at https://username.github.io/repository-name/"
 10. Visit site
 
 Website link example: https://username.github.io/repository-name/
