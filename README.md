@@ -13,4 +13,4 @@ How to host website via GitHub
 9. Wait until there's a "Your site is live at https://blahblahblah
 10. Visit site
 
-Website link: https://martiank3jc.github.io/Nanay-s-Birthday/
+Website link: https://martiank3jc.github.io/Nanay-s-Birthday/nyarharharhar
