@@ -1,0 +1,55 @@
+body {
+  background-color: #006729;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  color: #64ff39;
+  text-transform: uppercase;
+}
+
+.collage {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 10px;
+  max-width: 900px;
+}
+
+.collage img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease;
+}
+
+.collage img:hover {
+  transform: scale(1.5);
+  box-shadow: 0 4px 16px rgba(0,0,0,0.2); 
+}
+
+.pinkNanay{
+    padding: 20px;
+    margin: 0px auto 0px auto;
+    display: grid;
+    gap: 10px;
+    max-width: 800px;
+    border-radius: 8px;
+}
+
+.grinchGif img{
+  width: 400px;
+  height: 290px;;
+  border-radius: 8px;
+}
+
+.nanay {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start; 
+  gap: 20px;
+  padding: 20px;
+  flex-wrap: wrap;
+}

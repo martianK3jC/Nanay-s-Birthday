@@ -1,0 +1,69 @@
+body {
+  background-color: darkseagreen; /* You can use color names, hex, rgb, etc. */
+}
+
+.nanay1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 160px;
+    height: 180px; /* keeps the aspect ratio */
+}
+
+.location {
+    text-align: center;
+    text-decoration: none;
+    color: green;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: dotted underline;
+    font-size: 1.5em;
+}
+
+.moreNanayPics{
+    text-align: center;
+    text-decoration: none;
+    color: rgb(218, 255, 232);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.title{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: green;
+    font-size: 2em;
+}
+
+.date {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: greenyellow;
+    font-size: 1.5em;
+}
+
+.bring{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: greenyellow;
+    text-emphasis: dot;
+    font-weight: bold;
+    text-transform: uppercase;
+
+    font-size: 2em;
+}
+
+.bringList li{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: green;
+    font-size: 1.2em;
+    list-style-type: none;
+    text-decoration: underline;
+    padding-bottom: 10px;
+}
+
+.gowhere {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: greenyellow;
+    font-size: 2.5em;
+    text-align: center;
+}
